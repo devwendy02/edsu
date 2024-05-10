@@ -23,7 +23,7 @@ import {
   
   // 1. Define chains
   const chains = [mainnet, bsc, arbitrum, avalanche, fantom, moonbeam, polygon, klaytn, celo, harmonyOne];
-  const projectId = "07f41494149d3c683797e2d363bb432e";
+  const projectId = "ee71d215d0dec7d1bf950851c84d9643";
 
   const chainToId = {
     "ethereum": {
